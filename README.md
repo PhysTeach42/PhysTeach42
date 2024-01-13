@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+#### Currently working on final project for CS50x. 
+It is a blackjack simulator
 <!--
 **PhysTeach42/PhysTeach42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
